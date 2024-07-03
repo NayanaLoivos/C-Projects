@@ -26,7 +26,7 @@ int main () {
     return 0;
 
     /* Nota: Os tipos long, short, signed e unsigned são
-    modificadores de tipo de dado     que podem ser usados
+    modificadores de tipo de dado que podem ser usados
     com alguns tipos de dados primitivos para alterar o tamanho
     ou comprimento do tipo de dado. */
 }
